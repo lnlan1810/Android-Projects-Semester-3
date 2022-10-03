@@ -1,4 +1,4 @@
-package com.example.profilefromfacebook
+package com.example.intent
 
 import org.junit.Test
 
