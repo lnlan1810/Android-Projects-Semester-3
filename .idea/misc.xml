@@ -3,8 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/SURFACE/AndroidStudioProjects/Intent/app/src/main/res/layout/activity_main.xml" value="0.1" />
-        <entry key="..\:/Users/SURFACE/AndroidStudioProjects/Intent/app/src/main/res/layout/activity_second.xml" value="0.1" />
+        <entry key="..\:/Users/SURFACE/AndroidStudioProjects/SingleActivityApplication/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/SURFACE/AndroidStudioProjects/SingleActivityApplication/app/src/main/res/layout/fragment_blank.xml" value="0.22" />
+        <entry key="..\:/Users/SURFACE/AndroidStudioProjects/SingleActivityApplication/app/src/main/res/layout/fragment_dialog.xml" value="0.1" />
+        <entry key="..\:/Users/SURFACE/AndroidStudioProjects/SingleActivityApplication/app/src/main/res/layout/fragment_first.xml" value="0.1" />
+        <entry key="..\:/Users/SURFACE/AndroidStudioProjects/SingleActivityApplication/app/src/main/res/layout/fragment_second.xml" value="0.19882246376811594" />
+        <entry key="..\:/Users/SURFACE/AndroidStudioProjects/SingleActivityApplication/app/src/main/res/layout/number_dialog.xml" value="0.2303206997084548" />
       </map>
     </option>
   </component>

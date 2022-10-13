@@ -1,4 +1,4 @@
-package com.example.intent
+package com.example.singleactivityapplication
 
 import org.junit.Test
 
