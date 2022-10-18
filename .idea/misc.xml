@@ -3,12 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/SURFACE/AndroidStudioProjects/SingleActivityApplication/app/src/main/res/layout/activity_main.xml" value="0.1" />
-        <entry key="..\:/Users/SURFACE/AndroidStudioProjects/SingleActivityApplication/app/src/main/res/layout/fragment_blank.xml" value="0.22" />
-        <entry key="..\:/Users/SURFACE/AndroidStudioProjects/SingleActivityApplication/app/src/main/res/layout/fragment_dialog.xml" value="0.1" />
-        <entry key="..\:/Users/SURFACE/AndroidStudioProjects/SingleActivityApplication/app/src/main/res/layout/fragment_first.xml" value="0.1" />
-        <entry key="..\:/Users/SURFACE/AndroidStudioProjects/SingleActivityApplication/app/src/main/res/layout/fragment_second.xml" value="0.19882246376811594" />
-        <entry key="..\:/Users/SURFACE/AndroidStudioProjects/SingleActivityApplication/app/src/main/res/layout/number_dialog.xml" value="0.2303206997084548" />
+        <entry key="..\:/Users/SURFACE/AndroidStudioProjects/hw4/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2145" />
+        <entry key="..\:/Users/SURFACE/AndroidStudioProjects/hw4/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2145" />
+        <entry key="..\:/Users/SURFACE/AndroidStudioProjects/hw4/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/SURFACE/AndroidStudioProjects/hw4/app/src/main/res/layout/activity_recycler.xml" value="0.1" />
+        <entry key="..\:/Users/SURFACE/AndroidStudioProjects/hw4/app/src/main/res/layout/activity_singer.xml" value="0.1" />
+        <entry key="..\:/Users/SURFACE/AndroidStudioProjects/hw4/app/src/main/res/layout/fragment_list_singer_.xml" value="0.1" />
+        <entry key="..\:/Users/SURFACE/AndroidStudioProjects/hw4/app/src/main/res/layout/fragment_singer_info_.xml" value="0.1" />
+        <entry key="..\:/Users/SURFACE/AndroidStudioProjects/hw4/app/src/main/res/layout/item_member.xml" value="0.1" />
       </map>
     </option>
   </component>

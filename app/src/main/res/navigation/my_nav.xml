@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/my_nav"
+    app:startDestination="@id/list_singer_Fragment">
+
+    <fragment
+        android:id="@+id/list_singer_Fragment"
+        android:name="com.example.hw4.list_singer_Fragment"
+        android:label="fragment_list_singer_"
+        tools:layout="@layout/fragment_list_singer_" >
+        <action
+            android:id="@+id/action_list_singer_Fragment_to_singer_info_Fragment"
+            app:destination="@id/singer_info_Fragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/singer_info_Fragment"
+        android:name="com.example.hw4.singer_info_Fragment"
+        android:label="fragment_singer_info_"
+        tools:layout="@layout/fragment_singer_info_" >
+        <action
+            android:id="@+id/action_singer_info_Fragment_to_list_singer_Fragment"
+            app:destination="@id/list_singer_Fragment" />
+    </fragment>
+</navigation>
