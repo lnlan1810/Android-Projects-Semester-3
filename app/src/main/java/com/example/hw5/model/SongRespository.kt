@@ -1,0 +1,12 @@
+package com.example.hw5.model
+
+object SongRespository {
+    var id = 0
+    val songs = arrayListOf (
+
+        Song(id,"Starving", "peaked #12 in US Billboard Hot 100", listOf("https://images.saymedia-content.com/.image/c_limit%2Ccs_srgb%2Cq_auto:eco%2Cw_700/MTc0OTkyNTcyNTk4MDAzMTQw/top-28-hottest-and-most-popular-solo-singers-under-28.webp")),
+        Song(id++,"Royals", "peaked #1 in the US", listOf("https://images.saymedia-content.com/.image/c_limit%2Ccs_srgb%2Cq_auto:eco%2Cw_700/MTc0OTkyNTcyNTk4Nzg5NTcy/top-28-hottest-and-most-popular-solo-singers-under-28.webp", "https://images.saymedia-content.com/.image/c_limit%2Ccs_srgb%2Cq_auto:eco%2Cw_960/MTc0OTkyNTcyNTk3OTM3NjA0/top-28-hottest-and-most-popular-solo-singers-under-28.webp")),
+        Song(id++, "Here", "peaked #5 in US Billboard Hot 100", listOf("https://images.saymedia-content.com/.image/c_limit%2Ccs_srgb%2Cq_auto:eco%2Cw_1024/MTc0OTkyNTcyNTk4OTIwNjQ0/top-28-hottest-and-most-popular-solo-singers-under-28.webp", "https://images.saymedia-content.com/.image/c_limit%2Ccs_srgb%2Cq_auto:eco%2Cw_700/MTc0OTkyNTcyNTk4Nzg5NTcy/top-28-hottest-and-most-popular-solo-singers-under-28.webp", "https://images.saymedia-content.com/.image/c_limit%2Ccs_srgb%2Cq_auto:eco%2Cw_700/MTc0OTkyNTcyNTk4MDAzMTQw/top-28-hottest-and-most-popular-solo-singers-under-28.webp", "https://images.saymedia-content.com/.image/c_limit%2Ccs_srgb%2Cq_auto:eco%2Cw_960/MTc0OTkyNTcyNTk3OTM3NjA0/top-28-hottest-and-most-popular-solo-singers-under-28.webp")),
+        Song(id++, "One Kiss", "peaked #1 in the UK", listOf("https://images.saymedia-content.com/.image/c_limit%2Ccs_srgb%2Cq_auto:eco%2Cw_1000/MTc0OTkyNTcyNTk4OTg2MTgw/top-28-hottest-and-most-popular-solo-singers-under-28.webp", "https://images.saymedia-content.com/.image/c_limit%2Ccs_srgb%2Cq_auto:eco%2Cw_700/MTc0OTkyNTcyNTk4Nzg5NTcy/top-28-hottest-and-most-popular-solo-singers-under-28.webp", "https://images.saymedia-content.com/.image/c_limit%2Ccs_srgb%2Cq_auto:eco%2Cw_700/MTc0OTkyNTcyNTk4MDAzMTQw/top-28-hottest-and-most-popular-solo-singers-under-28.webp", "https://images.saymedia-content.com/.image/c_limit%2Ccs_srgb%2Cq_auto:eco%2Cw_960/MTc0OTkyNTcyNTk3OTM3NjA0/top-28-hottest-and-most-popular-solo-singers-under-28.webp")),
+    )
+}
