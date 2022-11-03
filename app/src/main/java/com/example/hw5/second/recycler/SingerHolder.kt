@@ -5,22 +5,22 @@ import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import com.example.hw5.databinding.ItemSingerBinding
-import com.example.hw5.model.Singer
 import com.bumptech.glide.RequestManager
+import com.example.hw5.model.DataItem
 
 class SingerHolder (
     private val binding: ItemSingerBinding,
     private val glide: RequestManager,
-    private val clickListener: (item: Singer) -> Unit
+    private val clickListener: (item: DataItem.Singer) -> Unit
 ) : RecyclerView.ViewHolder(binding.root) {
 
-    private var windowItem: Singer? = null
+    private var windowItem: DataItem.Singer? = null
 
     init{
         windowItem?.let { it1 -> clickListener.invoke(it1)}
     }
 
-    fun bind(item: Singer) {
+    fun bind(item: DataItem.Singer) {
         windowItem = item
 
         with(binding) {
@@ -59,7 +59,7 @@ class SingerHolder (
         fun create(
             parent: ViewGroup,
             glide: RequestManager,
-            clickListener: (item: Singer) -> Unit
+            clickListener: (item: DataItem.Singer) -> Unit
         ) = SingerHolder(
             ItemSingerBinding.inflate(
                 LayoutInflater

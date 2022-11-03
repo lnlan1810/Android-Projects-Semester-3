@@ -5,16 +5,16 @@ import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.RequestManager
 import com.example.hw5.databinding.ItemCvSongBinding
-import com.example.hw5.model.Song
+import com.example.hw5.model.DataItem
 
 class SongHolder (
     private val binding: ItemCvSongBinding,
     private val glide: RequestManager,
 ) : RecyclerView.ViewHolder(binding.root) {
-    private var house: Song? = null
+    private var house: DataItem.Song? = null
 
 
-    fun bind(item: Song) {
+    fun bind(item: DataItem.Song) {
         house = item
         with(binding) {
             house?.let {

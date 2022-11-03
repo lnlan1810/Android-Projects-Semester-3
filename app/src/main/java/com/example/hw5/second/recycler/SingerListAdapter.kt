@@ -4,14 +4,14 @@ import android.os.Bundle
 import android.view.ViewGroup
 import androidx.recyclerview.widget.ListAdapter
 import com.bumptech.glide.RequestManager
-import com.example.hw5.model.Singer
-import com.example.hw5.model.SingerRespository
+import com.example.hw5.model.DataItem
+import com.example.hw5.model.Repository
 import com.example.hw5.second.diff.SingerDiffItemCallback
 
 class SingerListAdapter (
     private val glide: RequestManager,
-    private val action: (item: Singer) -> Unit
-) : ListAdapter<Singer, SingerHolder>(SingerDiffItemCallback()) {
+    private val action: (item: DataItem.Singer) -> Unit
+) : ListAdapter<DataItem.Singer, SingerHolder>(SingerDiffItemCallback()) {
 
     override fun onCreateViewHolder(
         parent: ViewGroup,
@@ -39,12 +39,12 @@ class SingerListAdapter (
         }
     }
 
-    override fun submitList(list: MutableList<Singer>?) {
+    override fun submitList(list: MutableList<DataItem.Singer>?) {
         super.submitList(if (list == null) null else ArrayList(list))
     }
 
-    fun removeItem(item: Singer) {
-        SingerRespository.singers.remove(item)
-        submitList(SingerRespository.singers)
+    fun removeItem(item: DataItem.Singer) {
+        Repository.singers.remove(item)
+        submitList(Repository.singers)
     }
 }

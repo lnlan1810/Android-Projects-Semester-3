@@ -2,7 +2,7 @@ package com.example.hw5.second
 
 import androidx.recyclerview.widget.ItemTouchHelper
 import androidx.recyclerview.widget.RecyclerView
-import com.example.hw5.model.SingerRespository.singers
+import com.example.hw5.model.Repository.singers
 import com.example.hw5.second.recycler.SingerListAdapter
 
 class SwipeToDelete (
