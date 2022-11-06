@@ -4,8 +4,9 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/gray"
-    tools:context=".secondFragment">
+    android:background="@color/purple_200"
+    tools:context=".fistFragment">
+
 
     <TextView
         android:id="@+id/textView"
@@ -13,7 +14,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="204dp"
         android:layout_marginTop="324dp"
-        android:text="2"
+        android:text="1"
         android:textColor="@color/black"
         android:textSize="35dp"
         app:layout_constraintStart_toStartOf="parent"
