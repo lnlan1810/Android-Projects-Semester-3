@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "hw6"
+rootProject.name = "clock"
 include ':app'

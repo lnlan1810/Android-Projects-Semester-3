@@ -1,4 +1,4 @@
-package com.example.hw6
+package com.example.clock
 
 import org.junit.Test
 
