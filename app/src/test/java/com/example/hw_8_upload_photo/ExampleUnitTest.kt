@@ -1,4 +1,4 @@
-package com.example.clock
+package com.example.hw_8_upload_photo
 
 import org.junit.Test
 

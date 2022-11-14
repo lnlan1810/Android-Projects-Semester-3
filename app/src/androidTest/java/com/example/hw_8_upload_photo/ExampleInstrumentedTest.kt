@@ -1,4 +1,4 @@
-package com.example.clock
+package com.example.hw_8_upload_photo
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("com.example.clock", appContext.packageName)
+        assertEquals("com.example.hw_8_upload_photo", appContext.packageName)
     }
 }
