@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">hw_8_upload_photo</string>
+    <string name="app_name">MusicApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="notification_channel_title">First channel</string>
+    <string name="notification_channel_desc">my channel is the best because I wrote it</string>
 </resources>

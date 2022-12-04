@@ -3,7 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/SURFACE/AndroidStudioProjects/hw_8_upload_photo/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/SURFACE/AndroidStudioProjects/MusicApp/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/SURFACE/AndroidStudioProjects/MusicApp/app/src/main/res/layout/fragment_music__list.xml" value="0.17426545086119555" />
+        <entry key="..\:/Users/SURFACE/AndroidStudioProjects/MusicApp/app/src/main/res/layout/fragment_music_details.xml" value="0.1" />
+        <entry key="..\:/Users/SURFACE/AndroidStudioProjects/MusicApp/app/src/main/res/layout/fragment_track__list.xml" value="0.1" />
+        <entry key="..\:/Users/SURFACE/AndroidStudioProjects/MusicApp/app/src/main/res/layout/fragment_track_details.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/SURFACE/AndroidStudioProjects/MusicApp/app/src/main/res/layout/item_music.xml" value="0.33106884057971014" />
+        <entry key="..\:/Users/SURFACE/AndroidStudioProjects/MusicApp/app/src/main/res/layout/item_track.xml" value="0.1" />
       </map>
     </option>
   </component>
