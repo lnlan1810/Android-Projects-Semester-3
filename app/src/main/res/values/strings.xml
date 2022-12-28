@@ -1,8 +1,23 @@
 <resources>
-    <string name="app_name">MusicApp</string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
-
-    <string name="notification_channel_title">First channel</string>
-    <string name="notification_channel_desc">my channel is the best because I wrote it</string>
+    <string name="app_name">To do</string>
+    <string name="edit_task">Edit task</string>
+    <string name="title">Task title</string>
+    <string name="description">Task description</string>
+    <string name="empty_todo">Add your first task</string>
+    <string name="delete_all">Delete all</string>
+    <string name="choose_date">Choose date</string>
+    <string name="add_geolocation">Add geolocation</string>
+    <string name="cancel">Cancel</string>
+    <string name="done">Done</string>
+    <string name="longitude">Longitude: -</string>
+    <string name="latitude">Latitude: -</string>
+    <string name="time">Task time</string>
+    <string name="save_new_task">Save new task</string>
+    <string name="save_note">Save Note</string>
+    <string name="pick_note_color">Pick note color</string>
+    <string name="note_color">Note color :</string>
+    <string name="switch_darkmode">Switch DarkMode</string>
+    <string name="no_notes_yet">No notes yet!</string>
+    <string name="delete_notes">Delete notes</string>
+    <string name="add_new_note">Add new note</string>
 </resources>

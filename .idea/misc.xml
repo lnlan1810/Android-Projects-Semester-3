@@ -3,13 +3,22 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/SURFACE/AndroidStudioProjects/MusicApp/app/src/main/res/layout/activity_main.xml" value="0.1" />
-        <entry key="..\:/Users/SURFACE/AndroidStudioProjects/MusicApp/app/src/main/res/layout/fragment_music__list.xml" value="0.17426545086119555" />
-        <entry key="..\:/Users/SURFACE/AndroidStudioProjects/MusicApp/app/src/main/res/layout/fragment_music_details.xml" value="0.1" />
-        <entry key="..\:/Users/SURFACE/AndroidStudioProjects/MusicApp/app/src/main/res/layout/fragment_track__list.xml" value="0.1" />
-        <entry key="..\:/Users/SURFACE/AndroidStudioProjects/MusicApp/app/src/main/res/layout/fragment_track_details.xml" value="0.16666666666666666" />
-        <entry key="..\:/Users/SURFACE/AndroidStudioProjects/MusicApp/app/src/main/res/layout/item_music.xml" value="0.33106884057971014" />
-        <entry key="..\:/Users/SURFACE/AndroidStudioProjects/MusicApp/app/src/main/res/layout/item_track.xml" value="0.1" />
+        <entry key="..\:/thuc hanh he/ITIS_Android_2.1-hw-10/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/thuc hanh he/ITIS_Android_2.1-hw-10/app/src/main/res/layout/add_task_fragment.xml" value="0.1" />
+        <entry key="..\:/thuc hanh he/ITIS_Android_2.1-hw-10/app/src/main/res/layout/switch_item.xml" value="0.1" />
+        <entry key="..\:/thuc hanh he/ITIS_Android_2.1-hw-10/app/src/main/res/layout/tasks_fragment.xml" value="0.1" />
+        <entry key="..\:/thuc hanh he/ITIS_Android_2.1-hw-10/app/src/main/res/menu/menu_main.xml" value="0.1" />
+        <entry key="..\:/thuc hanh he/copy/ITIS_Android_2.1-hw-10/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/thuc hanh he/copy/ITIS_Android_2.1-hw-10/app/src/main/res/drawable/add.xml" value="0.1" />
+        <entry key="..\:/thuc hanh he/copy/ITIS_Android_2.1-hw-10/app/src/main/res/drawable/dark_mode.xml" value="0.1" />
+        <entry key="..\:/thuc hanh he/copy/ITIS_Android_2.1-hw-10/app/src/main/res/drawable/done_24.xml" value="0.1" />
+        <entry key="..\:/thuc hanh he/copy/ITIS_Android_2.1-hw-10/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/thuc hanh he/copy/ITIS_Android_2.1-hw-10/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/thuc hanh he/copy/ITIS_Android_2.1-hw-10/app/src/main/res/layout/add_task_fragment.xml" value="0.1" />
+        <entry key="..\:/thuc hanh he/copy/ITIS_Android_2.1-hw-10/app/src/main/res/layout/item_task.xml" value="0.1" />
+        <entry key="..\:/thuc hanh he/copy/ITIS_Android_2.1-hw-10/app/src/main/res/layout/switch_item.xml" value="0.16286727456940223" />
+        <entry key="..\:/thuc hanh he/copy/ITIS_Android_2.1-hw-10/app/src/main/res/layout/tasks_fragment.xml" value="0.1" />
+        <entry key="..\:/thuc hanh he/copy/ITIS_Android_2.1-hw-10/app/src/main/res/menu/menu_main.xml" value="0.17685185185185184" />
       </map>
     </option>
   </component>
