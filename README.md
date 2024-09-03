@@ -1,2 +1,2 @@
-# Android22-Lan
-Ле Тхи Нгок Лан 11-107
+# Android Development Projects - Semester 3
+This repository contains Android projects from a university course, organized by homework assignments. Each assignment is pushed to its respective branch.
